@@ -1,5 +1,5 @@
-<img src="printTela.png">
-<img src="printTela_02.png">
+<img src="Imagens/printTela.png">
+<img src="Imagens/printTela_02.png">
 
 ## Descrição do projeto 
 
