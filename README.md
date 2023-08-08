@@ -1,4 +1,4 @@
-<h1>Projeto Cadastro de despesas </h1>
+<h1> Cadastro de despesas </h1>
 <img src="Imagens/printTela.png">
 <img src="Imagens/printTela_02.png">
 
