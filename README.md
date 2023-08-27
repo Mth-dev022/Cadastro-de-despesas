@@ -1,6 +1,9 @@
 <h1> Registro de despesas </h1>
-<img src="Imagens/printTela.png">
-<img src="Imagens/printTela_02.png">
+
+<p align"center">
+<img width="500px" src="Imagens/printTela.png">
+<img width="500px" src="Imagens/printTela_02.png">
+</p>
 
 ##  📝  Descrição do projeto 
 
